@@ -1,0 +1,1848 @@
+2025-05-16T10:51:11.806Z [ITTERM] error: uncaughtException: logger.exitOnError is not a function
+TypeError: logger.exitOnError is not a function
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\service\logger.service.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+2025-05-16T10:53:24.578Z [ITTERM] error: uncaughtException: fa is not defined
+ReferenceError: fa is not defined
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\service\logger.service.js:26:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+2025-05-16T11:14:27.214Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:14:28.257Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:15:08.796Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:15:32.574Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:15:38.045Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:16:04.021Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:16:32.799Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:16:34.850Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:16:40.413Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:17:14.780Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:17:19.946Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:17:26.654Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:18:44.776Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:19:45.082Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:20:10.071Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:27:44.083Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:27:45.111Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:30:20.412Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:30:23.914Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:30:28.056Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:30:31.390Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:31:36.828Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:31:37.886Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:31:54.065Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:32:24.976Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:35:16.040Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:35:18.909Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:35:21.877Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:35:26.675Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:35:29.744Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:35:51.504Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:36:05.059Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:36:08.162Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:38:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:36:13.099Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:36:21.094Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:38:28.938Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:38:29.946Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:42:02.032Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:42:03.103Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:44:41.910Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:44:43.712Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:44:44.858Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:44:46.367Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:44:47.853Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:44:51.462Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:44:53.579Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:44:56.344Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:44:57.706Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:45:22.899Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:45:25.565Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:45:26.593Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:45:30.500Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:45:32.553Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:45:34.832Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:45:43.293Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:45:46.700Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:45:49.890Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:46:26.772Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:46:28.817Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:46:30.395Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:46:33.840Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:46:38.698Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:46:39.823Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:46:41.049Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:46:43.042Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:46:59.947Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:47:01.065Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:47:02.461Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:47:04.892Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:47:06.426Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:47:09.922Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-16T11:47:20.766Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T08:22:10.334Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T08:22:11.564Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T08:22:26.889Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T08:22:54.900Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T08:23:37.624Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T08:23:38.891Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T08:23:59.161Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:39:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T10:59:39.852Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T10:59:41.364Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:00:38.680Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:02:03.328Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:02:34.023Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:03:02.035Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:03:09.464Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:03:10.732Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:03:16.143Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:05:24.246Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:06:10.960Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:06:34.091Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:07:17.627Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:09:12.105Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:09:21.583Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:09:23.176Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:09:30.488Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:10:06.043Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:10:10.914Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:10:18.235Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:10:23.283Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:10:29.962Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:10:33.527Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:10:56.114Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:10:59.324Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:11:08.618Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:11:16.550Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:11:41.020Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:12:01.262Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:12:05.629Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:12:10.035Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:12:15.885Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:12:18.777Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:12:32.492Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-05-19T11:13:08.781Z [ITTERM] error: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- D:\backand\2_oy\main\ITTERM\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\backand\2_oy\main\ITTERM\app.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)

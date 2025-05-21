@@ -1,0 +1,27 @@
+{
+  "port": 3333,
+  "dbUri": "mongodb+srv://admin:admin12345@cluster0.bn8eq.mongodb.net/itterm?retryWrites=true&w=majority&appName=Cluster0",
+  "tokenKey": "MySecretTokenKeyAuthor",
+  "admintokenKey": "MySecretTokenKeyAdmin",
+  "usertokenKey": "MySecretTokenKeyUser",
+  "tokenExpTime": "24h",
+
+  "access_key": "AccessTokenSecretKey",
+  "refresh_key": "RefreshTokenSecretKey",
+  "access_time": "15h",
+  "refresh_time": "15d",
+  "cookie_refresh_time": 1296000000,
+  "smtp_password": "qeog qgpq spxf mmxg",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "ozodbekjalilov07@gmail.com",
+  "api_url": "http://localhost:3333",
+  "accessKeyAdmin": "AccessTokenSecretKeyAdmin",
+  "refreshKeyAdmin": "RefreshTokenSecretKeyAdmin",
+  "accessTimeAdmin": "15h",
+  "refreshTimeAdmin": "15d",
+  "accessKeyUser": "AccessTokenSecretKeyClient",
+  "refreshKeyUser": "RefreshTokenSecretKeyClient",
+  "accessTimeUser": "15h",
+  "refreshTimeUser": "15d"
+}
